@@ -1,4 +1,4 @@
-# TSN_ODBC_MSACCESS_LINUX
+# TSN_JDBC_MYSQL_2020
 Простейший пример работы с базой данных MySQL через JDBC в NetBeans
 
 [Apache NetBeans 12 + OpenJDK 11 (linux)]
